@@ -23,6 +23,7 @@
               <li><a href="kelas.php" class="dropdown-item">Data Kelas</a></li>
               <li><a href="siswa.php" class="dropdown-item">Data Siswa</a></li>
               <li><a href="spp.php" class="dropdown-item">Data SPP</a></li>
+              <li><a href="tunggakan.php" class="dropdown-item">Transaksi Tunggakan</a></li>
             </ul>
           </li>
           <li class="nav-item">
